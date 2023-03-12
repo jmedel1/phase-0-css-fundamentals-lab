@@ -2,4 +2,13 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  h1 {
+    text-align: center;
+  }
+  <img src="images/intro-pic.jpg" alt="A beautiful living room." class=center>
+  a {
+  padding-left:10px;
+  padding-right:10px;
+  background-color: coral;
+}
 }
